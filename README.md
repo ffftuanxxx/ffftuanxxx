@@ -14,7 +14,7 @@
 ✨Welcome to my Github page! I am Jiecheng Liao, and I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/)!✨
 
 #### 🌱 Research I am specializing in: 
-- Deep learning, Computer vision, Computer Graphics, Machine Learning
+- Deep learning, Computer Vision, Computer Graphics, Machine Learning
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:-->
