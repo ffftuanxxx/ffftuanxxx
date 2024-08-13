@@ -1,7 +1,6 @@
-## 
 <div>
   <h1 align="center"> 
-    <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Srishti Singh</mark></strong>
+    <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Jiecheng Liao</mark></strong>
 
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
