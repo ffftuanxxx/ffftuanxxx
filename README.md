@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://elucidator.cn)
-[![Website](https://img.shields.io/badge/Email-00FFFF)](https://elucidator.cn)
+[![Email](https://img.shields.io/badge/Email-00FFFF)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada! 
