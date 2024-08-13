@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"> 
     <strong>
-      <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Jiecheng Liao.</mark>
+      <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> This is <mark>Jiecheng Liao.</mark>
     </strong>
   </h1>
 </div>
