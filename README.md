@@ -17,7 +17,7 @@ Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/m
 #### 🌱 Research I am specializing in: 
 - Deep learning, Computer Vision, Computer Graphics, Machine Learning
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx)](https://github.com/anuraghazra/github-readme-stats)
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:-->
