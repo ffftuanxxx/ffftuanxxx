@@ -15,7 +15,7 @@ Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/m
 ✨I am Jiecheng Liao, and I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/)!✨
 
 #### 🌱 Research I am specializing in: 
-- Deep learning, Computer Vision, Computer Graphics, Machine Learning
+- Deep Learning, Computer Vision, Computer Graphics, Machine Learning
 #### 📫 Repository Status & Language Usage:
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats)
