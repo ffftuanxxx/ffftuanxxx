@@ -1,13 +1,13 @@
 <div>
   <h1 align="center"> 
     <strong>
-      <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">, This is <mark>James Liao!</mark>
+      <img src="https://github.com/ffftuanxxx/ffftuanxxx/blob/main/hi.gif" width="90px">, This is <mark>James Liao!</mark>
     </strong>
   </h1>
 </div>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
-[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://elucidator.cn)
+[![Personal Website](https://img.shields.io/badge/Website-8A2BE2)](https://elucidator.cn)
 [![Email](https://img.shields.io/badge/Email-00FFFF)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 
