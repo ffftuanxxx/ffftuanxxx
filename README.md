@@ -17,8 +17,8 @@ Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/m
 #### 🌱 Research I am specializing in: 
 - Deep learning, Computer Vision, Computer Graphics, Machine Learning
 #### 📫 Repository Status & Language Usage:
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical)](https://github.com/ffftuanxxx/github-readme-stats)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true)](https://github.com/ffftuanxxx/github-readme-stats)
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:-->
