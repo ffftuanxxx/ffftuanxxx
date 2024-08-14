@@ -10,9 +10,9 @@
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2)](https://elucidator.cn)
 [![Email](https://img.shields.io/badge/Email-00FFFF)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
-
-✨Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!  
-I am Jiecheng Liao, and I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/)!✨
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!  
+✨I am Jiecheng Liao, and I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/)!✨
 
 #### 🌱 Research I am specializing in: 
 - Deep learning, Computer Vision, Computer Graphics, Machine Learning
