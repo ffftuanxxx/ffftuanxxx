@@ -19,7 +19,7 @@
 - 💬 Ask me about Deep learning, Computer Vision.
 
 
-### 🌱 Research I am specializing in: 
+### 🌱 Research area: 
 - Deep Learning, Computer Vision, Computer Graphics, Medical Image Processing
 ### 📫 Repository Status & Language Usage:
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)
