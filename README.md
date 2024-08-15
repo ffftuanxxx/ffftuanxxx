@@ -13,7 +13,7 @@
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
 ### Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
-- 👯 I am Jiecheng Liao from China. 
+- 👯 My name is Jiecheng Liao from China. 
 - 🔭 I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/).
 - 🌱 I am currently focusing on my research area, and looking forward to collaborating on more Open-source Projects.
 - 💬 Ask me about Deep learning, Computer Vision.
