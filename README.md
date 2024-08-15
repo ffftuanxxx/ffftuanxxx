@@ -25,7 +25,7 @@
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats)
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h2 align="center">Visitor's count :eyes:</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{ffftuanxxx}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <img src="https://imgur.com/rilHVxA.png"/>
