@@ -20,7 +20,19 @@ Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/m
 #### 📫 Repository Status & Language Usage:
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats)
-<!--<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>-->
+
+<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
+<p align="center">
+    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
+    &nbsp;&nbsp;     
+    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    &nbsp;&nbsp;
+    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
+    &nbsp;&nbsp;
+   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+<!--<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>--!>
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:-->
