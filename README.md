@@ -8,8 +8,8 @@
 </div>
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
-[![About me](https://img.shields.io/badge/Personal%20Website-eaf500)](https://ffftuanxxx.github.io)
-[![Website](https://img.shields.io/badge/Personal%20Website-8A2BE2)](https://elucidator.cn)
+[![About me](https://img.shields.io/badge/About%20Me-eaf500)](https://ffftuanxxx.github.io)
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://elucidator.cn)
 [![Email](https://img.shields.io/badge/Email-00FFFF)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
