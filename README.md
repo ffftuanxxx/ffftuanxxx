@@ -9,8 +9,8 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
 [![About me](https://img.shields.io/badge/About%20Me-eaf500?style=for-the-badge)](https://ffftuanxxx.github.io)
-[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://elucidator.cn)
-[![Email](https://img.shields.io/badge/Email-00FFFF)](mailto:1544521055@qq.com)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge)](https://elucidator.cn)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
 ### Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
