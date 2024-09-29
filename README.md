@@ -16,7 +16,7 @@
 ### Welcome to my Github page<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 My name is Jiecheng Liao from China. 
 - 🔭 I am currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/).
-- 🌱 I am focusing on my research area, and looking forward to collaborating on more Related Projects.
+- 🌱 I am focusing on my research area, looking forward to collaborating on more Related Projects and papers.
 - 💬 Ask me about Deep learning, Computer Vision.
 
 
