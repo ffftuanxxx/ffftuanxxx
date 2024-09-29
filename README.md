@@ -21,7 +21,7 @@
 
 
 ### 🌱 Research area: 
-- Machine Learing, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing
+- Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing
 <!--### 📫 Repository Status & Language Usage:-->
 ### 📫 Language Usage:
 <!--![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)-->
