@@ -2,7 +2,7 @@
 <div>
   <h1 align="center"> 
     <strong>
-      <img src="https://github.com/ffftuanxxx/ffftuanxxx/blob/main/hi.gif" width="90px">, This is <mark>James Liao!</mark>
+      <img src="https://github.com/ffftuanxxx/ffftuanxxx/blob/main/hi.gif" width="90px">, This is <mark>James LIAO!</mark>
     </strong>
   </h1>
 </div>
