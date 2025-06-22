@@ -15,7 +15,7 @@
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
 ### Welcome to my [Github page](https://ffftuanxxx.github.io)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 My name is Jiecheng Liao from China. 
-- 🔭 I am currently on my way of finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal-Hong Kong Baptist University (BNBU)](https://www.uic.edu.cn/).
+- 🔭 I have graduated from [Beijing Normal-Hong Kong Baptist University (BNBU)](https://www.uic.edu.cn/) with my Computer Science and Technology Bachelor degree and will be heading to HKUST for my graduate studies.
 - 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
 - 💬 Ask me about Deep learning, Computer Vision.
 
