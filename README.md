@@ -13,9 +13,9 @@
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
-### Welcome to my [Github page](https://ffftuanxxx.github.io)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
+### Welcome to my [Personal Page](https://elucidator.cn/)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 My name is Jiecheng Liao from China. 
-- 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/), after graduating from [BNBU]((https://www.uic.edu.cn/)) with a Bachelor's degree in Computer Science and Technology.
+- 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/), after graduating from [BNBU](https://www.uic.edu.cn/) with a Bachelor's degree in Computer Science and Technology.
 - 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
 - 💬 Ask me about Deep learning, Computer Vision.
 
