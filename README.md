@@ -16,8 +16,6 @@
 ### Welcome to my [Github page](https://ffftuanxxx.github.io)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 My name is Jiecheng Liao from China. 
 - 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/), after graduating from [BNBU]((https://www.uic.edu.cn/)) with a Bachelor's degree in Computer Science and Technology.
-
-ref(APA): Jiecheng LIAO.Railgun的小窝.https://elucidator.cn. Retrieved 2025/9/3.
 - 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
 - 💬 Ask me about Deep learning, Computer Vision.
 
