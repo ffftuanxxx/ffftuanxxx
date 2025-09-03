@@ -8,7 +8,7 @@
 </div>
  
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ffftuanxxx)
-[![About me](https://img.shields.io/badge/About%20Me-eaf500?style=for-the-badge)](https://ffftuanxxx.github.io)
+[![About me](https://img.shields.io/badge/About%20Me-eaf500?style=for-the-badge)](https://elucidator.cn/cv/)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge)](https://elucidator.cn)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge)](mailto:1544521055@qq.com)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
