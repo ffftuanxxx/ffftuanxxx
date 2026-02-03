@@ -15,7 +15,7 @@
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
 ### Welcome to my [Personal Page](https://elucidator.cn/)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 This is James Liao. 
-- 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/), after graduating from [BNBU](https://www.uic.edu.cn/) with a Bachelor's degree in Computer Science and Technology.
+- 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/).
 - 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
 - 💬 Ask me about Deep learning, Computer Vision.
 
