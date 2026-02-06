@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge)](mailto:ljc@elucidator.cn)
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)-->
 <!--<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>-->
-### Welcome to my [Personal Page](https://elucidator.cn/)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
+### Welcome to my [BLOG](https://elucidator.cn/)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">!
 - 👯 This is James Liao. 
 - 🔭 I am undertaking my graduate studies at the [HKUST](https://hkust.edu.hk/).
 - 🌱 I am focusing on my research area, looking forward to collaborating on more Related projects and papers.
