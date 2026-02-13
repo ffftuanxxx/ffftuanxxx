@@ -29,8 +29,7 @@
 
 <!--<h2 align="center">Visitor's count :eyes:</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{ffftuanxxx}/count.svg" alt="AnhellO :: Visitor's Count" /></p>-->
-
-<img src="https://imgur.com/rilHVxA.png"/>
+<img width="1500" height="187" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/8a81c1c4-9cdf-4eaa-97b3-b6c608d0f3d9" />
 <!--<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>--!>
 <!--**ffftuanxxx/ffftuanxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
