@@ -26,9 +26,9 @@
 ### 🌱 Research area: 
 - Computer Vision, Multi-modal LLM (es in av-llm), TTS/VC, Computer Graphics, and Medical Image Processing
 <!--### 📫 Repository Status & Language Usage:-->
-### 📫 Language Usage:
+<!--### 📫 Language Usage: -->
 <!--![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffftuanxxx&show_icons=true&theme=radical&count_private=true)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffftuanxxx&theme=radical&count_private=true&hide=javascript,scss&layout=compact)](https://github.com/ffftuanxxx/github-readme-stats) -->
 
 <!--<h2 align="center">Visitor's count :eyes:</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{ffftuanxxx}/count.svg" alt="AnhellO :: Visitor's Count" /></p>-->
